@@ -1,0 +1,22 @@
+{
+  "name": "ca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin Harvey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.1",
+    "chalk-rainbow": "^1.0.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "node-menu": "^1.3.2",
+    "rc-menu": "^9.6.4",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^3.0.0"
+  }
+}
