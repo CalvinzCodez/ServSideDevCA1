@@ -27,7 +27,7 @@ Admin
 
 ## Quickstart
 ```bash
-git clone
+git clone https://github.com/CalvinzCodez/ServSideDevCA1.git
 cd Questionnare_Game
 
 # insall required dependencies
